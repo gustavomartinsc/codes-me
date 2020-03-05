@@ -1,1 +1,7 @@
 TEMPLATE ADSASDADASD
+
+COMANDOS GI PARA SALVAR TRABALHO:
+
+1- git add *
+2- git comit -m "rotulo do trabalho desenvolvido" (cria uma versão do projeto)
+3- git push origin master (manda para o repositorio remoto)
